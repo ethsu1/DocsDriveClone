@@ -1,3 +1,3 @@
 Google Drive and Docs Clone
 
-![System Diagram](images/systems.svg)
+![System Diagram](https://github.com/ethsu1/DocsDriveClone/blob/master/images/system.svg)
